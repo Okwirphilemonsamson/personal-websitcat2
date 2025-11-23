@@ -1,0 +1,184 @@
+a:link{
+    text-decoration: none;
+}
+body{
+    margin: unset;
+}
+a{
+    color: unset;
+}
+.main_header{
+    background-color: rgb(73, 73, 245);
+    display: flex;
+}
+.login{
+text-decoration: none;
+font-family: serif;
+font-weight: 100;
+padding: 2% 20% ;
+font-size: 1rem;
+justify-content: space-between;
+list-style: none;
+
+}
+.Searchbar{
+    border: unset;
+    justify-content: center;
+
+}
+.menu{
+    display: flex;
+    text-decoration-color: black;
+    font-size: large;
+    font-weight: 100;
+    font-style: normal;
+    justify-content: space-between;
+    background-color: black;
+    color: aliceblue;
+    list-style: none;
+
+}
+button{
+    color: rgba(249, 249, 252, 0.979);
+    padding: 2%;
+    border-radius: 60%;
+    display: -ms-flexbox;
+    justify-content: space-between;
+    font-size: large;
+    border-color: aliceblue;
+}
+
+.footer_area{
+    background-color: blue;
+    border: unset;
+
+}
+
+.footer_area {
+    background-color: rgba(40, 167, 185, 0.9);
+    line-height: 1.5;
+    position: relative;
+    margin-top: 0%;
+}
+
+.follow-paywith-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2em;
+}
+
+.social_handles {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 10%;
+}
+
+.social_handles p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2rem;
+    color: #000000;
+    list-style-type: none;
+    white-space: nowrap;
+}
+
+.social_icons ul {
+    display: flex;
+    list-style-type: none;
+    width: 100%;
+    padding: 0%;
+    justify-content: center;
+    font-size: 2rem;
+    margin: unset;
+}
+
+.social_icons a {
+    margin-right: 1rem;
+}
+
+.social_icons .fa-square-facebook {
+    color: #3b5998;
+    border: unset;
+    border-radius: 20%;
+    padding: 2px;
+}
+
+.social_icons .fa-square-instagram {
+    background: linear-gradient(to bottom right, #f95959, #ce3778, #9c218c, #663399, #2f2c5f);
+    border-radius: 20%;
+    border: unset;
+    padding: 3px;
+}
+
+.social_icons .fa-tiktok {
+    border: unset;
+    border-radius: 20%;
+    padding: 2px;
+}
+
+.social_icons .fa-twitter {
+    color: #1DA1F2;
+    border: unset;
+    border-radius: 20%;
+    padding: 2px;
+}
+
+.payments_modes {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    margin-right: 10%;
+}
+
+.payments_modes p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2rem;
+    color: #000000;
+    list-style-type: none;
+    white-space: nowrap;
+}
+
+.payment_icons img {
+    margin-left: 47%;
+}
+
+.blackseparator2 {
+    width: 100%;
+    background-color: #000000;
+    padding-top: 0.5%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.copyright_info {
+    display: flex;
+    justify-content: space-between;
+}
+
+.site_title_footer {
+    margin-left: 10%;
+}
+
+.site_title_footer ul {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.5rem;
+    list-style-type: none;
+    padding: 0%;
+}
+
+.copyright_info p {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin-right: 10%;
+}
